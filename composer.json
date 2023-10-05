@@ -1,14 +1,18 @@
 {
-    "name": "jsor/hal-client",
+    "name": "manuman85/hal-client",
     "description": "A lightweight client for consuming and manipulating Hypertext Application Language (HAL) resources.",
     "keywords": ["hal", "rest", "api", "json", "http", "client"],
-    "homepage": "https://github.com/jsor/hal-client",
+    "homepage": "https://github.com/manuman85/hal-client",
     "license": "MIT",
     "authors": [
         {
             "name": "Jan Sorgalla",
             "email": "jsorgalla@gmail.com",
             "homepage": "http://sorgalla.com"
+        },
+        {
+            "name": "Josep Manuel Martos",
+            "email": "josepmcm85@gmail.com"
         }
     ],
     "require": {
